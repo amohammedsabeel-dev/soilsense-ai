@@ -1,6 +1,6 @@
 {
-  "name": "SoilSense AI",
-  "description": "An advanced AI-powered soil analysis tool that identifies soil types from images and provides detailed gardening and agricultural recommendations.",
+  "name": "Smart Farmer Guidance System",
+  "description": "An integrated AI & IoT platform for soil analysis, disease detection, and agricultural management.",
   "requestFramePermissions": [
     "camera"
   ]
