@@ -1,0 +1,7 @@
+{
+  "name": "SoilSense AI",
+  "description": "An advanced AI-powered soil analysis tool that identifies soil types from images and provides detailed gardening and agricultural recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
